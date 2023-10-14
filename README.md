@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... mathematics, programming and herding sheep.
 - 🌱 I’m currently learning ... how to learn.
 - 💞️ I’m looking to collaborate on ... whatever interests you and me.
-- 📫 [How to reach me ... come here!](https://zhangphi.github.io/README.md)
+- 📫 [How to reach me ... come here!](https://github.com/zhangphi/zhangphi.github.io/blob/main/README.md)
 
 - 👋 你好，我是张飞放羊。
 - 👀 我喜欢数学，写代码和瞎侃大山。
